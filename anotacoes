@@ -1,0 +1,10 @@
+# siteEtec
+
+## Welpers - função asset
+carrega o caminho absoluto até a pasta views/assets/
+podendo ser passado como parametro($path)
+<img src="<?php echo asset('images/bg.jpg');?>" alt="">
+
+###welpers - debug 
+debug($conexao);
+debug(getdate());
