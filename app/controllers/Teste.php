@@ -1,10 +1,9 @@
 <?php 
 namespace siteEtec\controllers;
 
-
-class HomeController extends Controller{
+class Teste{
     public function index()
     {
-        $this->view->render('home');
+        echo 'Teste Controller';
     }
 }

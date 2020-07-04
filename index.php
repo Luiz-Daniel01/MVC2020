@@ -21,6 +21,7 @@ debug($_GET['$teste']);*/
 
 //starta a aplicação
 new siteEtec\core\Core;
+//oi
 ?>
 
 
